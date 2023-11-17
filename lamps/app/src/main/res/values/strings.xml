@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lamps</string>
+    <string name="mainled">MainLed</string>
+    <string name="led3">led3</string>
+    <string name="led1">led1</string>
+    <string name="led">TextView</string>
+    <string name="reset">Button</string>
+    <string name="led2">led2</string>
+    <string name="Reset">reset</string>
+</resources>
